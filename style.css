@@ -1,0 +1,56 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f3f3f3;
+}
+
+.jumbotron {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.navbar-nav .nav-link {
+    color: white !important;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #0d7909 !important;
+}
+
+.carousel-inner img {
+    height: 400px;
+    object-fit: cover;
+}
+
+#values h3 {
+    color: #138808;
+}
+
+#register .form-group label {
+    font-weight: bold;
+}
+
+.social-icon {
+    width: 30px;
+    margin: 0 10px;
+}
+
+/* Hero Section */
+.hero {
+    text-align: center;
+    padding: 50px;
+    background: linear-gradient(90deg, #ffa500, #ffffff, #128807);
+}
+
+.hero h2 {
+    font-size: 36px;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+.hero img.logo {
+    max-width: 200px;
+    margin-top: 20px;
+}
+
